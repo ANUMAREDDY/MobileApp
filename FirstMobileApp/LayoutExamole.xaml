@@ -10,7 +10,7 @@
             HorizontalOptions="Center" />
         <Grid BackgroundColor="Aquamarine" ColumnDefinitions="Auto,40,Auto">
             <Button Grid.Column="0" Text="Button1" WidthRequest="180"/>
-            <Button Grid.Column="1" Text="Button2" WidthRequest="180"/>
+            <Button Grid.Column="1" Text="Button2" WidthRequest="170"/>
             <Button Grid.Column="2" Text="Button3" WidthRequest="180"/>
 
         </Grid>
