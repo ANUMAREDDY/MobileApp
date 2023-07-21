@@ -8,7 +8,7 @@
 
     <ShellContent
         Title="Home"
-        ContentTemplate="{DataTemplate local:NewXamlMode}"
-        Route="NewXamlMode" />
+        ContentTemplate="{DataTemplate local:LayoutExamole}"
+        Route="LayoutExamole" />
 
 </Shell>

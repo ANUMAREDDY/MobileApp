@@ -53,6 +53,9 @@
 	</ItemGroup>
 
 	<ItemGroup>
+	  <MauiXaml Update="LayoutExamole.xaml">
+	    <Generator>MSBuild:Compile</Generator>
+	  </MauiXaml>
 	  <MauiXaml Update="NewXamlMode.xaml">
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>
